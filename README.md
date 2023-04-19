@@ -28,8 +28,9 @@
 Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-Reference-style: 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+image :
+![alt text](https://www.freepnglogos.com/uploads/lemon-png/lemon-juice-sampar-drinking-water-19.png)
+
 #### + Code and Syntax Highlighting
 ``` javascript
 var s = "JavaScript syntax highlighting";
