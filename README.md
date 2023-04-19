@@ -77,5 +77,5 @@ It presents an overall picture of a proposed business which helps ascertain the 
 #### Youtube Video
 
 <a href="https://youtu.be/QLsDKboLxjU
-" target="_blank"><img src="https://www.freepnglogos.com/uploads/lemon-png/lemon-juice-sampar-drinking-water-19.png" 
+" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9_s0lOgNjydwq3zw3bBzQx-e0VwLDjqu7TQ&usqp=CAU" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
